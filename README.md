@@ -1,2 +1,9 @@
 # frontend_html_ilk_odev
 Front end html ilk ödevim
+<h1>Hasan Ali Arıkuşu</h1>
+<!--hakkımda bölümü-->
+<h2>Hakkımda</h2>
+<!--paragraf başlangıcı-->
+<p>24/03/1983 İstanbul doğumluyum</p>
+<p>Yıldız Teknik Üniversitesi Makina Mühendisliği mezunuyum.</p>
+<!--paragraf sonu-->
